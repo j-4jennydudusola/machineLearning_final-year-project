@@ -1,5 +1,9 @@
-# myprojects - Classification of fMRI imaging data for 4 different subject to show which part of the body is being moved during brain stimulation.
+# My projects - most have been completed whilst studying as part of assignments given, also some are personal projects completed in recreational time, during the holidays.
 
-In this project, the use of a Support Vector Machine to classify fMRI images is evaluated.
+Topic Areas:
 
-Run svm_classifier.py on lab machine and use labels.csv and data folder all in same directory.
+1. Machine Learning - classification
+2. Natural Language Processing
+3. Games
+4. Graphical User Interfaces
+
